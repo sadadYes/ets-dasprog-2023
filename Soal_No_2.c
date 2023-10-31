@@ -31,3 +31,4 @@ int main() {
     printf("Kombinasi = %d\n", kombinasi);
 
     return 0;
+}
