@@ -17,7 +17,7 @@ int main() {
     int data_set[n];
     
     // Menerima input data set
-    printf("Masukkan data set:\n");
+    printf("Masukkan data set: \n");
     for (int i = 0; i < n; i++) {
         printf("Data %d: \n", i+1);
         scanf("%d", &data_set[i]);
